@@ -5,6 +5,7 @@
 opcion=0
 nombre="Alberto"
 apellido="Barboza"
+estadoCivil="Casado con hijos"
 echo "Opcion : $opcion Nombre : $nombre Apelido : $apellido"
 # Exportar la varibale para que este disponible a los demas procesos
 export nombre
