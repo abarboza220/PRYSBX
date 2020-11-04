@@ -3,9 +3,9 @@
 
 
 opcion=0
-nombre="Marco"
-
-echo "Opcion : $opcion Nombre : $nombre"
+nombre="Alberto"
+apellido="Barboza"
+echo "Opcion : $opcion Nombre : $nombre Apelido : $apellido"
 # Exportar la varibale para que este disponible a los demas procesos
 export nombre
 #Exportar variable
