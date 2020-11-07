@@ -8,6 +8,7 @@ apellido="Barboza"
 estadoCivil="Casado con hijos"
 Expertis="NodoJS,Scrum"
 testGit="QAEntorno"
+cambio="arch_20201107"
 echo "Opcion : $opcion Nombre : $nombre Apelido : $apellido"
 # Exportar la varibale para que este disponible a los demas procesos
 export nombre
