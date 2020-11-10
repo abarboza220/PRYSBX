@@ -9,8 +9,8 @@ estadoCivil="Casado con hijos"
 Expertis="NodoJS,Scrum"
 testGit="QAEntorno"
 cambio="arch_20201107_V2356_"
-Lema="Todo lo puedo en Cristo que me fortalece"
-	echo "Opcion : $opcion Nombre : $nombre Apelido : $apellido"
+Lema="Todo lo puedo en Cristo que me fortalece,La sangre de Cristo tiene poder"
+echo "Opcion : $opcion Nombre : $nombre Apelido : $apellido"
 # Exportar la varibale para que este disponible a los demas procesos
 export nombre
 #Exportar variable
