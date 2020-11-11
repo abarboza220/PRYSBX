@@ -19,3 +19,4 @@ export nombre
 #Exportar variable
 #Todo lo puedo en Cristo que me fortalece
 #./2_variables_2.sh
+documentacion="Es importante documentar los cambios para avanza"
